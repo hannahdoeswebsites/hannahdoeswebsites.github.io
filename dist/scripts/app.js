@@ -1,4 +1,4 @@
-require.register("main", function(exports, require, module){
+require.register("/Users/hannahjordan/Desktop/hannahdoeswebsites.github.io/scripts/main", function(exports, require, module){
   "use strict";
   
 });
